@@ -1,0 +1,3 @@
+matrixprofile  # custom fork: pip install git+https://github.com/mitchellpkt/matrixprofile
+isthmuslib  # pre-dist top: pip install git+https://github.com/mitchellpkt/python-isthmuslib
+jupyter
