@@ -3,3 +3,4 @@ isthmuslib  # pre-dist top: pip install git+https://github.com/mitchellpkt/pytho
 jupyter
 numpy==1.22
 pandas
+tqdm
